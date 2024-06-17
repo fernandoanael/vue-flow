@@ -21,7 +21,7 @@ const props = defineProps({
   },
   targetPosition: {
     type: String,
-    reuire: true,
+    require: true,
   },
   sourcePosition: {
     type: String,
